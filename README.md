@@ -7,5 +7,4 @@
 دریافت کانفیگ رایگان:\
 https://ircfspace.github.io/tconfig
 
-گردآوری‌شده از طریق:\
-https://github.com/SoliSpirit/v2ray-configs
+
